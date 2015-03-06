@@ -1,3 +1,4 @@
 "../device" "device"
 "../admin" "admin"
 "../hotel" "hotel"
+"../event-store" "event-store"
