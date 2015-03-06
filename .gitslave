@@ -2,3 +2,4 @@
 "../admin" "admin"
 "../hotel" "hotel"
 "../event-store" "event-store"
+"../hotel-service" "hotel-service"
