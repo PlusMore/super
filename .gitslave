@@ -1,4 +1,5 @@
 "../device" "device"
 "../admin" "admin"
 "../hotel" "hotel"
-"../event-store" "event-store"
+"../email-service" "email-service"
+"../Reaktor" "reaktor"

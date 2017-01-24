@@ -6,4 +6,5 @@
 /hotel/
 /admin/
 /device/
-/event-store/
+/email-service/
+/reaktor/
